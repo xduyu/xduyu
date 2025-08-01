@@ -13,4 +13,4 @@ Hello there 👋 </br>
     🌴 JavaScript Developer, plan to look into Go and php in the future. 
   </li>
 </ul>
-[![GitHub Streak](https://streak-stats.demolab.com?user=xduyu&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=xduyu&theme=dark&hide_border=true&card_width=)](https://git.io/streak-stats)
