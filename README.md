@@ -1,15 +1,15 @@
 Hello there 👋 </br>
 <ul>
   <li>
-    -👋 Hi, I’m @xduyu  </br> 
+    👋 Hi, I’m @xduyu  </br> 
   </li>
   <li>
-    -👀 I’m interested in Full-stack Dev.  </br>
+    👀 I’m interested in Full-stack Dev.  </br>
   </li>
   <li>
-    -✨ React, JavaScript, Tailwind CSS, Fastify.  </br>
+    ✨ React, JavaScript, Tailwind CSS, Fastify.  </br>
   </li>
   <li>
-    -🌴 JavaScript Developer, plan to look into Go and php in the future. 
+    🌴 JavaScript Developer, plan to look into Go and php in the future. 
   </li>
 </ul>
