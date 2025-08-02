@@ -10,6 +10,6 @@ Hello there 👋 </br>
     ✨ React, JavaScript, Tailwind CSS, Fastify.  </br>
   </li>
   <li>
-    🌴 JavaScript Developer, plan to look into Go and php in the future. 
+    🌴 JavaScript Developer, plan to look into Go, TypeScript and php in the future. 
   </li>
 </ul>
