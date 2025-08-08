@@ -7,7 +7,7 @@ Hello there 👋 </br>
     👀 I’m interested in Full-stack Dev.  </br>
   </li>
   <li>
-    ✨ React, JavaScript, Tailwind CSS, Fastify, ExpressJs.  </br>
+    ✨ React, JavaScript, Tailwind CSS, ExpressJs.  </br>
   </li>
   <li>
     🌴 JavaScript Developer, plan to look into Go, TypeScript, NextJS and php in the future.  
