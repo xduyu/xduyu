@@ -13,6 +13,6 @@ Hello there 👋 </br>
     🌴 JavaScript Developer, plan to look into Go, TypeScript, NextJS and php in the future.  
   </li>
   <li>
-    📚 Now learning: Next.js, TypeScript  
+    📚 Now learning: Next.js, TypeScript, NestJS  
   </li>
 </ul>
