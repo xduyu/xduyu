@@ -10,9 +10,9 @@ Hello there 👋 </br>
     ✨ React, JavaScript, Next.js, TypeScript, NestJS, Tailwind CSS.  </br>
   </li>
   <li>
-    🌴 JavaScript Developer, plan to look into Go, TypeScript, NextJS and php in the future.  
+    🌴 JavaScript Developer, plan to look into Go and php in the future.  
   </li>
   <li>
-    📚 Now learning: 
+    📚 Now learning: Java
   </li>
 </ul>
