@@ -13,6 +13,6 @@ Hello there 👋 </br>
     🌴 TypeScript Developer, plan to look into Go and php in the future.  
   </li>
   <li>
-    📚 Now learning: Java
+    📚 Now learning: Java, php
   </li>
 </ul>
