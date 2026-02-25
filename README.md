@@ -10,9 +10,9 @@ Hello there 👋 </br>
     ✨ React, JavaScript, Next.js, TypeScript, Tailwind CSS, PrismaORM.  </br>
   </li>
   <li>
-    🌴 TypeScript Developer, plan to look into Go and php in the future.  
+    🌴 TypeScript Developer, plan to look into Go and PHP in the future.  
   </li>
   <li>
-    📚 Now learning: Java, php
+    📚 Now learning: PHP
   </li>
 </ul>
