@@ -7,7 +7,7 @@ Hello there 👋 </br>
     👀 I’m interested in Full-stack Dev.  </br>
   </li>
   <li>
-    ✨ React, JavaScript, Next.js, TypeScript, Tailwind CSS, PrismaORM.  </br>
+    ✨ React, JavaScript, Next.js, TypeScript, Tailwind CSS, PHP.  </br>
   </li>
   <li>
     🌴 TypeScript Developer, plan to look into Go and PHP in the future.  
