@@ -10,9 +10,9 @@ Hello there 👋 </br>
     ✨ React, JavaScript, Next.js, TypeScript, Tailwind CSS, PHP.  </br>
   </li>
   <li>
-    🌴 TypeScript Developer, plan to look into Go and PHP in the future.  
+    🌴 TypeScript Developer, plan to look into Go in the future.  
   </li>
   <li>
-    📚 Now learning: PHP
+    📚 Now learning: -
   </li>
 </ul>
